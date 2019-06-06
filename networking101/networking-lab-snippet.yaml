@@ -1,0 +1,8 @@
+
+
+# Add this to the bottom of networking-lab.yaml to enable the firewalling configuration
+
+- name: networking101-firewall
+  type: firewall-template.jinja
+  properties:
+    network: networking101
