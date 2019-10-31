@@ -1,4 +1,4 @@
-# terraform IaaC on Google Cloud Platform
+# Terraform Implementations on Google Cloud Platform
 
 *for adding the credentials for Google Cloud Platform, add the following line in .bashprofile or .bashrc*	
 
